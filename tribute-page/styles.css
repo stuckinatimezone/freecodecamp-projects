@@ -1,0 +1,56 @@
+
+h1{
+    font-family: Lato, sans serif;
+    font-weight: 600;
+    text-align: center;
+}
+#title-para{
+    font-family: Lato, sans serif;
+    font-weight: 300;
+    text-align: center;
+}
+#img-caption{
+    font-family; Lato, sans serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+}
+img{
+    display: flex;
+    justify-content: center;
+}
+section h3{
+    font-family: Lato, sans serif;
+    font-weight: 600;
+}
+section li{
+    font-family: Lato, sans serif;
+    font-weight: 300;
+}
+#quote{
+    font-family: Lato, sans serif;
+    font-weight: 600;
+    font-style: italic;
+}
+#cite{
+    font-family: Lato, sans serif;
+    font-weight: 600;
+    font-style: italic;
+}
+h3{
+    font-family: Lato, sans serif;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    color: hsl(194, 25%, 51%);
+}
+img{
+    /*This property below sets the image centered
+    so that even when the broswer is shrinked the 
+    image doesn't compress*/
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
