@@ -1,2 +1,3 @@
 This is a tribute page project done for freecodecamp for Simon Baker.
 Simon Baker is an australian actor. Fell in love with his Patrick Jane character from the Mentalist Series
+![tributepage](https://github.com/stuckinatimezone/freecodecamp-projects/assets/63923803/a4d6da6d-b0a8-41c5-b111-2a6c8a1a0486)
