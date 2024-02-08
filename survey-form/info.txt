@@ -1,0 +1,3 @@
+This survey form is not Responsive. 
+It cannot be viewed properly on a mobile device.
+Can be viewed on a desktop screen.
